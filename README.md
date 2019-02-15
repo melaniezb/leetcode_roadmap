@@ -20,4 +20,4 @@ as much as it has helped me.
 
 ## Contents
 
-- [Bit Manipulation]()
+- [Bit Manipulation](bit_manipulation.md)
