@@ -21,4 +21,4 @@ as much as it has helped me.
 ## Contents
 
 - [Bit Manipulation](bit_manipulation.md)
-- [Tries]()
+- [Tries](tries.md)
