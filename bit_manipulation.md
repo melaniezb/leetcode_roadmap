@@ -1,6 +1,6 @@
 ## Bit Manipulation
 **A Refresher**
-1. `n & (n - 1)` clears the least significant (rightmost) 1-bit of `n`
+1. `n & (n - 1)` clears the least significant (rightmost) 1-bit of `n`.
 2. __Arithmetic shift__: `>>` preserves the signedness of a number by extending the sign-bit (1 for negative, 0 for positive);
    __Logical shift__: `>>>` just adds 0s to the left after the shift.
    
